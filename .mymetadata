@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MyTool"
+  id="myeclipse.1445933513140"
+  context-root="/EmploymentServiceAgencySearch"
+  j2ee-spec="6.0"
+  archive="MyTool.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
